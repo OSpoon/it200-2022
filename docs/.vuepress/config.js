@@ -3,11 +3,11 @@ module.exports = {
   lang: "zh-CN",
   title: "IT200持续为您导航",
   description: "IT200持续为您导航",
+  base: "/it200-2022/",
   theme: "@vuepress/theme-default",
   themeConfig: {
     logo: "/images/logo.b96656d2.jpg",
     repo: "https://github.com/OSpoon/it200-2022",
-    base: "/it200-2022/",
     navbar: [
       {
         text: "IT200导航",
