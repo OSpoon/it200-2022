@@ -1,1 +1,0 @@
-const a={key:"v-2c03298c",path:"/navigation-area/learning-materials.html",title:"\u5B66\u4E60\u8D44\u6599",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"navigation-area/learning-materials.md"};export{a as data};

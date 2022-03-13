@@ -1,1 +1,0 @@
-const a={key:"v-ddff4d78",path:"/navigation-area/design-correlation.html",title:"\u8BBE\u8BA1\u76F8\u5173",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"navigation-area/design-correlation.md"};export{a as data};

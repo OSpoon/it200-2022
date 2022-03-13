@@ -7,7 +7,7 @@ module.exports = {
   themeConfig: {
     logo: "/images/logo.b96656d2.jpg",
     repo: "https://github.com/OSpoon/it200-2022",
-    base: "it200-2022",
+    base: "/it200-2022/",
     navbar: [
       {
         text: "IT200导航",

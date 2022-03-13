@@ -1,1 +1,0 @@
-const a={key:"v-99932296",path:"/navigation-area/node-frame.html",title:"Node\u6846\u67B6",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"navigation-area/node-frame.md"};export{a as data};
