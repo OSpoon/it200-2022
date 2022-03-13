@@ -1,0 +1,1 @@
+const a={key:"v-11dd4ac5",path:"/navigation-area/open-platform.html",title:"\u5F00\u653E\u5E73\u53F0",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"navigation-area/open-platform.md"};export{a as data};

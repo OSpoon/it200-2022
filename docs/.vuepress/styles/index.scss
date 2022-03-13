@@ -1,0 +1,22 @@
+:root {
+  --back-to-top-z-index: 5;
+
+  --back-to-top-color: #3eaf7c;
+  --back-to-top-color-hover: #71cda3;
+
+  .home,
+  .page-meta,
+  .page-nav {
+    max-width: 100%;
+  }
+  .theme-default-content {
+    max-width: 100%;
+    padding: 2rem 2.5rem;
+  }
+  .theme-container {
+    min-width: 410px;
+  }
+  .footer {
+    margin-top: 10rem;
+  }
+}
