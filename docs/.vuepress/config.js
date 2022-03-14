@@ -141,6 +141,14 @@ module.exports = {
             text: "astexplorer",
             link: "https://astexplorer.net/",
           },
+          {
+            text: "crontab",
+            link: "https://crontab.guru/",
+          },
+          {
+            text: "emojiall",
+            link: "https://www.emojiall.com/zh-hans/all-cate",
+          },
         ],
       },
       {
@@ -153,6 +161,10 @@ module.exports = {
           {
             text: "力扣",
             link: "https://leetcode-cn.com/",
+          },
+          {
+            text: "假百度",
+            link: "https://btfy.vercel.app/",
           },
         ],
       },
