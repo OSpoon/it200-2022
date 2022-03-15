@@ -50,6 +50,24 @@
             description: '渐进式 JavaScript 框架',
         },
         {
+            title: 'VueUse',
+            icon: 'https://vueuse.org/favicon-32x32.png',
+            href: 'https://vueuse.org/',
+            description: 'Collection of essential Vue Composition Utilities',
+        },
+        {
+            title: 'Pinia',
+            icon: 'https://pinia.vuejs.org/logo.png',
+            href: 'https://pinia.vuejs.org/',
+            description: 'The Vue Store that you will enjoy using',
+        },
+        {
+            title: 'vxetable',
+            icon: 'https://vxetable.cn/logo.png',
+            href: 'https://vxetable.cn/#/',
+            description: 'vxe-table vue 表格解决方案',
+        },
+        {
             title: 'Nuxtjs',
             icon: 'https://nuxtjs.org/_nuxt/icons/icon_64x64.a3b4ce.png',
             href: 'https://zh.nuxtjs.org/',
