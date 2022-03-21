@@ -115,34 +115,10 @@
           description: '2,500+ royalty-free illustrations to power up your designs'
         },
         {
-          title: 'Open Doodles',
-          icon: 'https://assets.website-files.com/5d5d5904f8a21bfe5ff69367/5da4e9a054896ed6d830e869_icon-32w.png',
-          href: 'https://www.opendoodles.com/',
-          description: 'A Free Set of Open-Source Illustrations!'
-        },
-        {
           title: 'Storyset',
           icon: 'https://storyset.com/favicon-32x32.png',
           href: 'https://storyset.com/',
           description: 'Awesome free customizable illustrations for your next project'
-        },
-        {
-          title: 'Skribbl',
-          icon: 'https://weareskribbl.com/wp-content/uploads/2021/01/cropped-LightBulb-fav-32x32.png',
-          href: 'https://weareskribbl.com/',
-          description: 'Illustrations for Everyone'
-        },
-        {
-          title: 'OpenPeeps',
-          icon: 'https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51ce488c34f8b713499e29_icon32w.png',
-          href: 'https://www.openpeeps.com/',
-          description: 'A hand-drawn illustration library.'
-        },
-        {
-          title: 'Illustratious',
-          icon: 'https://illustratious.com/favicon/favicon-32x32.png',
-          href: 'https://illustratious.com/?category=illustration&premium=false',
-          description: 'Download and search for premium quality creative illustrations on illustratious.com!'
         },
         {
           title: 'figma',
