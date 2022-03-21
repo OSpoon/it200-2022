@@ -17,12 +17,6 @@
           description: '首图图片模板在线设计制作'
         },
         {
-          title: '稿定-PS',
-          icon: 'https://ps.gaoding.com/favicon.ico',
-          href: 'https://ps.gaoding.com/#/',
-          description: '稿定 在线PS'
-        },
-        {
           title: '创客贴',
           icon: 'https://www.chuangkit.com/favicon.ico',
           href: 'https://www.chuangkit.com/',
