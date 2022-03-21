@@ -8,10 +8,17 @@ module.exports = {
   themeConfig: {
     logo: "/images/logo.b96656d2.jpg",
     repo: "https://github.com/OSpoon/it200-2022",
+    editLinkText:"编辑此页",
+    lastUpdatedText:"最近更新时间",
+    contributorsText:"贡献者列表",
+    docsRepo: 'https://github.com/OSpoon/it200.cn',
+    docsBranch: 'main',
+    docsDir: 'docs',
+    editLinkPattern: ':repo/edit/:branch/:path',
     navbar: [
       {
-        text: "IT200导航",
-        link: `${root}/fe-frame.md`,
+        text: "页面内容你来定",
+        link: `https://github.com/OSpoon/it200.cn/issues`,
       },
       {
         text: "常逛社区",
@@ -152,19 +159,22 @@ module.exports = {
         ],
       },
       {
-        text: "娱乐学习",
+        text: "开源作品",
         children: [
           {
-            text: "哔哩哔哩",
-            link: "https://www.bilibili.com/",
+            text: "var-conv（VSCode编码命名转换插件）",
+            link: "https://github.com/OSpoon/var-conv",
           },
           {
-            text: "力扣",
-            link: "https://leetcode-cn.com/",
+            text: "jsbridge-n22（Js&Android混合开发库）",
+            link: "https://github.com/OSpoon/jsbridge-n22",
           },
           {
-            text: "假百度",
-            link: "https://btfy.vercel.app/",
+            text: "spa-build-version（SPA版本检测方案）",
+            link: "https://github.com/OSpoon/spa-build-version",
+          },{
+            text: "canvas2d-ts（链式编程canvas2d）",
+            link: "https://github.com/OSpoon/canvas2d-ts",
           },
         ],
       },

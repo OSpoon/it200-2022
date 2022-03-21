@@ -93,8 +93,7 @@
         },
         {
           title: 'Toptal',
-          icon:
-            'https://frontier-assets.toptal.com/ec99a6ba6efa2bbb78f99a929026b33d.svg',
+          icon: '/images/toptal.webp',
           href: 'https://www.toptal.com/developers/css/sprite-generator',
           description: 'CSS Sprites Generator'
         },
