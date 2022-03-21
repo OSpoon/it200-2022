@@ -59,6 +59,114 @@
           icon: '/images/fontawesome.ico',
           href: 'http://www.fontawesome.com.cn/icons-ui/',
           description: 'Fontawesome The Icons'
+        },
+        {
+          title: 'unDraw',
+          icon: '',
+          href: 'https://undraw.co/illustrations',
+          description: ''
+        },
+        {
+          title: 'IRA Design',
+          icon: '',
+          href: 'https://iradesign.io/illustrations',
+          description: ''
+        },
+        {
+          title: 'Ouch',
+          icon: '',
+          href: 'https://icons8.com/illustrations',
+          description: ''
+        },
+        {
+          title: 'DrawKit',
+          icon: '',
+          href: 'https://www.drawkit.io/',
+          description: ''
+        },
+        {
+          title: 'Humaaans',
+          icon: '',
+          href: 'https://www.humaaans.com/',
+          description: ''
+        },
+        {
+          title: 'illu-station',
+          icon: '',
+          href: 'https://themeisle.com/illustrations/',
+          description: ''
+        },
+        {
+          title: 'blush.design',
+          icon: '',
+          href: 'https://blush.design/',
+          description: ''
+        },
+        {
+          title: 'Glaze',
+          icon: '',
+          href: 'https://www.glazestock.com/',
+          description: ''
+        },
+        {
+          title: 'ManyPixels',
+          icon: '',
+          href: 'https://www.manypixels.co/gallery',
+          description: ''
+        },
+        {
+          title: 'Open Doodles',
+          icon: '',
+          href: 'https://www.opendoodles.com/',
+          description: ''
+        },
+        {
+          title: 'Storyset',
+          icon: '',
+          href: 'https://storyset.com/',
+          description: ''
+        },
+        {
+          title: 'Skribbl',
+          icon: '',
+          href: 'https://weareskribbl.com/',
+          description: ''
+        },
+        {
+          title: 'OpenPeeps',
+          icon: '',
+          href: 'https://www.openpeeps.com/',
+          description: ''
+        },
+        {
+          title: 'Illustratious',
+          icon: '',
+          href: 'https://illustratious.com/?category=illustration&premium=false',
+          description: ''
+        },
+        {
+          title: 'LukaszAdam Illustrations',
+          icon: '',
+          href: 'https://lukaszadam.com/illustrations',
+          description: ''
+        },
+        {
+          title: 'Absurd.Design',
+          icon: '',
+          href: 'https://absurd.design/',
+          description: ''
+        },
+        {
+          title: 'figma',
+          icon: '',
+          href: 'https://www.figma.com/',
+          description: ''
+        },
+        {
+          title: 'Color Hunt',
+          icon: '',
+          href: 'https://colorhunt.co/',
+          description: ''
         }
     ]"
 />
