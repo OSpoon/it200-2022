@@ -1,4 +1,4 @@
-# 设计相关
+# 插画设计
 
 ---
 
@@ -62,111 +62,99 @@
         },
         {
           title: 'unDraw',
-          icon: '',
+          icon: 'https://undraw.co/favicon.ico',
           href: 'https://undraw.co/illustrations',
-          description: ''
+          description: 'Browse to find the images that fit your needs and click to download. Use the on-the-fly color image generation to match your brand identity.'
         },
         {
           title: 'IRA Design',
-          icon: '',
+          icon: 'https://iradesign.io/assets/img/favicon.svg',
           href: 'https://iradesign.io/illustrations',
-          description: ''
+          description: 'Discover IRA illustrations to power up your project.'
         },
         {
           title: 'Ouch',
-          icon: '',
+          icon: 'https://maxst.icons8.com/vue-static/ouch/seo/favicon.png',
           href: 'https://icons8.com/illustrations',
-          description: ''
+          description: 'Free vector illustrations to enhance your project'
         },
         {
           title: 'DrawKit',
-          icon: '',
+          icon: 'https://assets-global.website-files.com/5bcb46130508ef456a7b2930/5bccdc4be50f241805c1a48b_drawkit-favicon-export-v0.1.png',
           href: 'https://www.drawkit.io/',
-          description: ''
+          description: 'Beautiful, free illustrations. Updated weekly.'
         },
         {
           title: 'Humaaans',
-          icon: '',
+          icon: 'https://assets.website-files.com/5bff8886c3964a992e90d465/5c00a0ccd86e9656ff7c748a_favicon-32.png',
           href: 'https://www.humaaans.com/',
-          description: ''
+          description: 'Mix-&-match illustrations of people with a design library'
         },
         {
           title: 'illu-station',
-          icon: '',
+          icon: 'https://mllj2j8xvfl0.i.optimole.com/d0cOXWA.3970~373ad/w:auto/h:auto/q:90/https://s30246.pcdn.co/wp-content/uploads/2019/04/cropped-favicon-2-32x32.png',
           href: 'https://themeisle.com/illustrations/',
-          description: ''
+          description: 'Illustrations to use in your next project'
         },
         {
           title: 'blush.design',
-          icon: '',
+          icon: 'https://blush.design/favicon-32x32.png',
           href: 'https://blush.design/',
-          description: ''
+          description: '运用全球艺术家的系列轻松创建和定制精美的插画。试试吧，超有趣。'
         },
         {
           title: 'Glaze',
-          icon: '',
+          icon: 'https://www.glazestock.com/img/icons/favicon-32x32.png',
           href: 'https://www.glazestock.com/',
-          description: ''
+          description: 'Memorable products, brands, & presentations start with our curated royalty-free illustration library'
         },
         {
           title: 'ManyPixels',
-          icon: '',
+          icon: 'https://www.manypixels.co/favicon.ico',
           href: 'https://www.manypixels.co/gallery',
-          description: ''
+          description: '2,500+ royalty-free illustrations to power up your designs'
         },
         {
           title: 'Open Doodles',
-          icon: '',
+          icon: 'https://assets.website-files.com/5d5d5904f8a21bfe5ff69367/5da4e9a054896ed6d830e869_icon-32w.png',
           href: 'https://www.opendoodles.com/',
-          description: ''
+          description: 'A Free Set of Open-Source Illustrations!'
         },
         {
           title: 'Storyset',
-          icon: '',
+          icon: 'https://storyset.com/favicon-32x32.png',
           href: 'https://storyset.com/',
-          description: ''
+          description: 'Awesome free customizable illustrations for your next project'
         },
         {
           title: 'Skribbl',
-          icon: '',
+          icon: 'https://weareskribbl.com/wp-content/uploads/2021/01/cropped-LightBulb-fav-32x32.png',
           href: 'https://weareskribbl.com/',
-          description: ''
+          description: 'Illustrations for Everyone'
         },
         {
           title: 'OpenPeeps',
-          icon: '',
+          icon: 'https://assets.website-files.com/5e51b3b0337309d672efd94c/5e51ce488c34f8b713499e29_icon32w.png',
           href: 'https://www.openpeeps.com/',
-          description: ''
+          description: 'A hand-drawn illustration library.'
         },
         {
           title: 'Illustratious',
-          icon: '',
+          icon: 'https://illustratious.com/favicon/favicon-32x32.png',
           href: 'https://illustratious.com/?category=illustration&premium=false',
-          description: ''
-        },
-        {
-          title: 'LukaszAdam Illustrations',
-          icon: '',
-          href: 'https://lukaszadam.com/illustrations',
-          description: ''
-        },
-        {
-          title: 'Absurd.Design',
-          icon: '',
-          href: 'https://absurd.design/',
-          description: ''
+          description: 'Download and search for premium quality creative illustrations on illustratious.com!'
         },
         {
           title: 'figma',
-          icon: '',
+          icon: 'https://static.figma.com/app/icon/1/favicon.png',
           href: 'https://www.figma.com/',
-          description: ''
+          description: 'www.figma.com/'
         },
         {
           title: 'Color Hunt',
-          icon: '',
+          icon: 'https://colorhunt.co/img/color-hunt-icon-192.png?v4',
           href: 'https://colorhunt.co/',
-          description: ''
+          description: 'Color Palettes for Designers and Artists'
         }
     ]"
 />
