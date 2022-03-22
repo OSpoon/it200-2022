@@ -5,16 +5,16 @@
 <content-page
     :superlink="[
         {
-            title: 'Vue3.x',
-            icon: 'https://cn.vuejs.org/images/icons/favicon-32x32.png',
-            href: 'https://v3.cn.vuejs.org/',
-            description: '渐进式 JavaScript 框架',
+            title: 'Vue.js',
+            icon: 'https://vuejs.org/images/logo.png',
+            href: 'https://staging-cn.vuejs.org/',
+            description: '一款用于构建 Web 界面，易学易用，性能出色且功能丰富的框架。',
         },
         {
             title: 'Vue2.x',
             icon: 'https://cn.vuejs.org/images/icons/favicon-32x32.png',
             href: 'https://cn.vuejs.org/',
-            description: '渐进式 JavaScript 框架',
+            description: '一款用于构建 Web 界面，易学易用，性能出色且功能丰富的框架。',
         },
         {
             title: 'VueUse',
