@@ -15,13 +15,6 @@
         href: 'https://www.typescriptlang.org/',
       },
       {
-        title: 'lodashjs',
-        icon: 'https://www.lodashjs.com/img/favicon.ico',
-        href: 'https://www.lodashjs.com/',
-        description:
-          'Lodash 是一个一致性、模块化、高性能的 JavaScript 实用工具库。',
-      },
-      {
         title: 'Vue.js 技术揭秘',
         description: 'Vue.js 技术揭秘',
         icon: 'https://cn.vuejs.org/images/icons/favicon-32x32.png',

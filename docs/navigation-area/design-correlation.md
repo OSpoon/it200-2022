@@ -4,11 +4,18 @@
 
 <content-page 
     :superlink="[
-      {
+        {
           title: '蓝湖',
           icon: 'https://cdn.lanhuapp.com/web/static/favicon.ico',
           href: 'https://lanhuapp.com/',
           description: '高效的产品设计协作平台'
+        },
+        {
+          title: 'Iconfont',
+          icon:
+            'https://img.alicdn.com/imgextra/i2/O1CN01ZyAlrn1MwaMhqz36G_!!6000000001499-73-tps-64-64.ico',
+          href: 'https://www.iconfont.cn/',
+          description: '国内功能很强大且图标内容很丰富的矢量图标库，提供矢量图标下载、在线存储、格式转换等功能。阿里巴巴体验团队倾力打造，设计和前端开发的便捷工具'
         },
         {
           title: '稿定-设计',
@@ -33,13 +40,6 @@
           icon: '/images/loading.ico',
           href: 'https://loading.io/',
           description: 'Animation Made Easy'
-        },
-        {
-          title: 'Iconfont',
-          icon:
-            'https://img.alicdn.com/tps/i4/TB1_oz6GVXXXXaFXpXXJDFnIXXX-64-64.ico',
-          href: 'https://www.iconfont.cn/',
-          description: '阿里妈妈MUX倾力打造的矢量图标管理、交流平台。'
         },
         {
           title: 'IconPark资源站',

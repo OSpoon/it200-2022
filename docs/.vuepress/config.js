@@ -8,13 +8,13 @@ module.exports = {
   themeConfig: {
     logo: "/images/logo.b96656d2.jpg",
     repo: "https://github.com/OSpoon/it200-2022",
-    editLinkText:"编辑此页",
-    lastUpdatedText:"最近更新时间",
-    contributorsText:"贡献者列表",
-    docsRepo: 'https://github.com/OSpoon/it200.cn',
-    docsBranch: 'main',
-    docsDir: 'docs',
-    editLinkPattern: ':repo/edit/:branch/:path',
+    editLinkText: "编辑此页",
+    lastUpdatedText: "最近更新时间",
+    contributorsText: "贡献者列表",
+    docsRepo: "https://github.com/OSpoon/it200.cn",
+    docsBranch: "main",
+    docsDir: "docs",
+    editLinkPattern: ":repo/edit/:branch/:path",
     navbar: [
       {
         text: "页面内容你来定",
@@ -46,7 +46,7 @@ module.exports = {
           {
             text: "微信开发社区",
             link: "https://developers.weixin.qq.com/community/homepage",
-          }
+          },
         ],
       },
       {
@@ -123,6 +123,10 @@ module.exports = {
             text: "小码短链接",
             link: "https://xiaomark.com/",
           },
+          {
+            text: "JSON转typescript",
+            link: "https://tooltt.com/json2typescript/",
+          },
         ],
       },
       {
@@ -165,23 +169,13 @@ module.exports = {
             text: "var-conv（VSCode编码命名转换插件）",
             link: "https://github.com/OSpoon/var-conv",
           },
-          {
-            text: "jsbridge-n22（Js&Android混合开发库）",
-            link: "https://github.com/OSpoon/jsbridge-n22",
-          },
-          {
-            text: "spa-build-version（SPA版本检测方案）",
-            link: "https://github.com/OSpoon/spa-build-version",
-          },{
-            text: "canvas2d-ts（链式编程canvas2d）",
-            link: "https://github.com/OSpoon/canvas2d-ts",
-          },
         ],
       },
     ],
     sidebar: [
       `${root}/fe-frame.md`,
       `${root}/node-frame.md`,
+      `${root}/universal-library.md`,
       `${root}/learning-materials.md`,
       `${root}/all-tools.md`,
       `${root}/design-correlation.md`,

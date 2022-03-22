@@ -1,6 +1,6 @@
 # 前端框架
 
-## Vue
+## Vue 系列
 
 <content-page
     :superlink="[
@@ -94,7 +94,7 @@
     ]"
 />
 
-## React
+## React 系列
 
 <content-page
     :superlink="[
@@ -143,7 +143,7 @@
     ]"
 />
 
-## Angular
+## Angular 系列
 
 <content-page
     :superlink="[
@@ -168,40 +168,7 @@
     ]"
 />
 
-## 构建系列
-
-<content-page
-    :superlink="[
-        {
-            title: 'Vite',
-            icon: '/images/vite.svg',
-            href: 'https://cn.vitejs.dev/',
-            description: '下一代前端开发与构建工具',
-        },
-        {
-            title: 'Webpackjs',
-            icon: 'https://www.webpackjs.com/assets/favicon.ico',
-            href: 'https://www.webpackjs.com/',
-            description: '打包所有的 资源',
-        },
-        {
-            title: 'Rollupjs',
-            icon: 'https://www.rollupjs.com/img/favicon.png',
-            href: 'https://www.rollupjs.com/',
-            description:
-            'Rollup 是一个 JavaScript 模块打包器，可以将小块代码编译成大块复杂的代码，例如 library 或应用程序。',
-        },
-        {
-            title: 'GoGoCode',
-            icon: 'https://img.alicdn.com/tfs/TB17V2NvHj1gK0jSZFuXXcrHpXa-256-256.png',
-            href: 'https://gogocode.io/zh',
-            description:
-            '代码转换从未如此简单 全网最简单易上手，可读性最强的 AST 处理工具！',
-        },
-    ]"
-/>
-
-## 微服务
+## 更多系列
 
 <content-page
     :superlink="[
@@ -217,13 +184,6 @@
             href: 'https://micro-zoe.github.io/micro-app/',
             description: '一款轻量、高效、功能强大的微前端框架',
         },
-    ]"
-/>
-
-## 客户端
-
-<content-page
-    :superlink="[
         {
             title: 'Electron',
             icon: '/images/electronjs.ico',
@@ -236,13 +196,6 @@
             href: 'https://tauri.studio/',
             description: '使用 Web 前端构建更小、更快、更安全的桌面应用程序',
         },
-    ]"
-/>
-
-## 跨端
-
-<content-page
-    :superlink="[
         {
             title: 'Taro',
             icon: 'http://taro-docs.jd.com/taro/img/favicon.ico',
@@ -255,43 +208,6 @@
             icon: 'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp8.itc.cn%2Fimages01%2F20210622%2Fb2f45b67d1734886b5ed04779e823052.jpeg&refer=http%3A%2F%2Fp8.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637760430&t=3335d0e2ba38c2121400890f33e1d1e7',
             href: 'https://uniapp.dcloud.io/',
             description: 'uni-app：一个使用 Vue.js 开发跨平台应用的前端框架',
-        },
-    ]"
-/>
-
-## 通用
-
-<content-page
-    :superlink="[
-        {
-            title: 'Echarts',
-            icon: 'https://cdn.jsdelivr.net/gh/apache/echarts-website@asf-site/zh/images/favicon.png?_v_=20200710_1',
-            href: 'https://echarts.apache.org/zh/index.html',
-            description: '一个基于 JavaScript 的开源可视化图表库',
-        },
-        {
-            title: 'Animate.css',
-            icon: 'https://animate.style/img/favicon.ico',
-            href: 'https://animate.style/',
-            description: 'Just-add-water CSS animations',
-        },
-        {
-            title: 'Velocity.js',
-            icon: '/images/velocity.ico',
-            href: 'http://shouce.jb51.net/velocity/index.html',
-            description: '简单易用、高性能、功能丰富的轻量级JS动画库',
-        },
-        {
-            title: 'Three.js',
-            icon: 'https://threejs.org/files/favicon.ico',
-            href: 'https://threejs.org/',
-            description: 'JavaScript 3D library',
-        },
-        {
-            title: 'Postcss',
-            icon: 'https://www.postcss.com.cn/favicon.61a31adb.ico',
-            href: 'https://www.postcss.com.cn/',
-            description: '是一个用 JavaScript 工具和插件转换 CSS 代码的工具',
         },
     ]"
 />
