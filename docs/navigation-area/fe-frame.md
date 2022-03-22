@@ -1,5 +1,35 @@
 # 前端框架
 
+## 基础系列
+
+<content-page
+    :superlink="[
+        {
+            title: 'JavaScript',
+            icon: 'https://www.runoob.com/wp-content/uploads/2013/07/js-logo.png',
+            href: 'https://www.runoob.com/js/js-tutorial.html',
+            description: '菜鸟JavaScript 教程',
+        },
+        {
+            title: 'ECMAScript',
+            icon: 'https://img1.baidu.com/it/u=393673481,1181948800&fm=26&fmt=auto',
+            href: 'http://es.xiecheng.live/',
+            description: 'ECMAScript2015~2020语法全解析',
+        },
+        {
+            title: 'TypeScript',
+            description: 'TypeScript is JavaScript with syntax for types.',
+            icon: 'https://www.tslang.cn/assets/images/icons/favicon.ico',
+            href: 'https://www.typescriptlang.org/',
+        },
+        {
+            title: 'Playground',
+            description: 'TypeScript演练场',
+            icon: 'https://www.tslang.cn/assets/images/icons/favicon.ico',
+            href: 'https://www.typescriptlang.org/zh/play',
+        },
+    ]"
+/>
 ## Vue 系列
 
 <content-page

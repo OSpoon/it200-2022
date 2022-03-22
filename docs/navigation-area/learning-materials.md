@@ -3,18 +3,6 @@
 <content-page 
     :superlink="[
       {
-        title: 'ECMAScript',
-        icon: 'https://img1.baidu.com/it/u=393673481,1181948800&fm=26&fmt=auto',
-        href: 'http://es.xiecheng.live/',
-        description: 'ECMAScript2015~2020语法全解析',
-      },
-      {
-        title: 'TypeScript',
-        description: 'TypeScript is JavaScript with syntax for types.',
-        icon: 'https://www.tslang.cn/assets/images/icons/favicon.ico',
-        href: 'https://www.typescriptlang.org/',
-      },
-      {
         title: 'Vue.js 技术揭秘',
         description: 'Vue.js 技术揭秘',
         icon: 'https://cn.vuejs.org/images/icons/favicon-32x32.png',
@@ -55,6 +43,12 @@
         icon: 'https://gw.alicdn.com/tfs/TB1lFaCklfH8KJjy1XbXXbLdXXa-32-32.png',
         href: 'https://f2e.tech/',
         description: '前端知识图谱',
+      },
+      {
+        title: 'Apache JMeter',
+        icon: '/images/apache.png',
+        href: 'https://jmeter.apache.org/download_jmeter.cgi',
+        description: 'The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.',
       },
     ]"
 />

@@ -5,6 +5,12 @@
 <content-page 
     :superlink="[
         {
+            title: 'Node.js',
+            icon: 'http://img.nodejs.cn/favicon.png',
+            href: 'http://nodejs.cn/',
+            description: 'Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行时。',
+        },
+        {
             title: 'Express',
             icon: 'https://www.expressjs.com.cn/images/favicon.png',
             href: 'https://www.expressjs.com.cn/',

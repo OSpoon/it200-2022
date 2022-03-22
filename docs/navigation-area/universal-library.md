@@ -12,6 +12,13 @@
             description: 'Treer is a commandline tool to generate directory structure tree',
         },
         {
+            title: 'localforage',
+            icon: 'https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png',
+            href: 'https://localforage.github.io/localForage/',
+            description:
+            '💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.',
+        },
+        {
             title: 'Verdaccio',
             icon: 'https://verdaccio.org/zh-CN/img/logo/uk/verdaccio-tiny-uk-no-bg.svg',
             href: 'https://verdaccio.org/zh-CN/',
