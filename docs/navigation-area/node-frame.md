@@ -73,5 +73,11 @@
             description:
             '代码转换从未如此简单 全网最简单易上手，可读性最强的 AST 处理工具！',
         },
+        {
+            title: 'GraphQL',
+            icon: 'https://graphql.cn/favicon.ico',
+            href: 'https://graphql.cn/',
+            description: '一种用于 API 的查询语言',
+        },
     ]"
 />

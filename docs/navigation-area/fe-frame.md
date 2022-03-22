@@ -165,6 +165,18 @@
             href: 'https://material.angular.cn/',
             description: 'Material Design 组件库 for Angular',
         },
+        {
+            title: 'RxJS Marbles',
+            icon: 'https://rxmarbles.com/favicon.png',
+            href: 'https://rxmarbles.com/',
+            description: 'Interactive diagrams of Rx Observables',
+        },
+        {
+            title: 'Rx Visualizer',
+            icon: 'https://rxviz.com/favicon.png',
+            href: 'https://rxviz.com/',
+            description: 'Animated playground for Rx Observables',
+        },
     ]"
 />
 
@@ -204,10 +216,16 @@
             'Taro 是一个开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发',
         },
         {
-            title: 'uni-app官网',
+            title: 'uni-app',
             icon: 'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp8.itc.cn%2Fimages01%2F20210622%2Fb2f45b67d1734886b5ed04779e823052.jpeg&refer=http%3A%2F%2Fp8.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637760430&t=3335d0e2ba38c2121400890f33e1d1e7',
             href: 'https://uniapp.dcloud.io/',
             description: 'uni-app：一个使用 Vue.js 开发跨平台应用的前端框架',
+        },
+        {
+            title: 'code.fun',
+            icon: 'https://code.fun/favicon.ico',
+            href: 'https://code.fun/',
+            description: '做前端 不搬砖 UI 设计稿智能生成前端源代码 8 小时工作量，10 分钟完成',
         },
     ]"
 />

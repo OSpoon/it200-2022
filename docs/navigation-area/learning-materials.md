@@ -2,7 +2,7 @@
 ---
 <content-page 
     :superlink="[
-        {
+      {
         title: 'ECMAScript',
         icon: 'https://img1.baidu.com/it/u=393673481,1181948800&fm=26&fmt=auto',
         href: 'http://es.xiecheng.live/',
@@ -21,6 +21,12 @@
         href: 'https://ustbhuangyi.github.io/vue-analysis/',
       },
       {
+        title: '大厂面试题每日一题',
+        description: '大厂面试题每日一题',
+        icon: 'https://q.shanyue.tech/favicon.ico',
+        href: 'https://ustbhuangyi.github.io/vue-analysis/',
+      },
+      {
         title: '现代 JavaScript 教程',
         icon: 'https://zh.javascript.info/img/favicon/favicon.png',
         href: 'https://zh.javascript.info/',
@@ -31,6 +37,24 @@
         icon: 'https://it200.cn/img/logo.b96656d2.jpg',
         href: 'https://ospoon.github.io/',
         description: '小鑫笔记在线阅读',
+      },
+      {
+        title: 'yarn官方中文文档',
+        icon: 'https://www.bookstack.cn/favicon.ico',
+        href: 'https://www.bookstack.cn/read/yarn-cn/0.md',
+        description: 'yarn官方中文文档',
+      },
+      {
+        title: '大圣前端',
+        icon: 'https://shengxinjing.cn/logo.ico',
+        href: 'https://shengxinjing.cn/',
+        description: '大圣前端学习路线图',
+      },
+      {
+        title: '前端知识图谱',
+        icon: 'https://gw.alicdn.com/tfs/TB1lFaCklfH8KJjy1XbXXbLdXXa-32-32.png',
+        href: 'https://f2e.tech/',
+        description: '前端知识图谱',
       },
     ]"
 />

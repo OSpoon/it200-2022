@@ -40,10 +40,16 @@
     ]"
 />
 
-## 动画
+## CSS&动画
 
 <content-page
     :superlink="[
+        {
+            title: 'Tailwindcss',
+            icon: 'https://www.tailwindcss.cn/favicon-32x32.png',
+            href: 'https://www.tailwindcss.cn/',
+            description: '无需离开您的HTML，即可快速建立现代网站。',
+        },
         {
             title: 'Animate.css',
             icon: 'https://animate.style/img/favicon.ico',
