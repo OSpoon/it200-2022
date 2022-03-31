@@ -6,6 +6,18 @@
 <content-page
     :superlink="[
         {
+            title: 'Day.js中文网',
+            icon: 'https://dayjs.fenxianglu.cn/assets/favicon.png',
+            href: 'https://dayjs.fenxianglu.cn/',
+            description: 'Day.js是一个极简的JavaScript库，可以为现代浏览器解析、验证、操作和显示日期和时间。',
+        },
+        {
+            title: 'Moment.js',
+            icon: 'http://momentjs.cn/static/img/moment-favicon.png',
+            href: 'http://momentjs.cn/',
+            description: 'JavaScript 日期处理类库',
+        },
+        {
             title: 'treer',
             icon: 'https://static.npmjs.com/b0f1a8318363185cc2ea6a40ac23eeb2.png',
             href: 'https://www.npmjs.com/package/treer',
