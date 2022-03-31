@@ -172,6 +172,12 @@
             'https://www.linuxcool.com/wp-content/uploads/2019/03/cropped-redhat-32x32.png',
           href: 'https://www.linuxcool.com/',
           description: 'Linux命令大全(手册)'
+        },
+        {
+          title: 'Homebrew镜像',
+          icon: 'https://brew.idayer.com/favicon.ico',
+          href: 'https://brew.idayer.com/',
+          description: 'Homebrew macOS飞速安装教程'
         }
     ]" 
 />
