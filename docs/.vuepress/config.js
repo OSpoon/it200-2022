@@ -75,61 +75,6 @@ module.exports = {
         ],
       },
       {
-        text: "绘图区",
-        children: [
-          {
-            text: "在线流程图",
-            link: "https://www.processon.com/",
-          },
-          {
-            text: "手绘风绘图",
-            link: "https://excalidraw.com/",
-          },
-        ],
-      },
-      {
-        text: "设计工具",
-        children: [
-          {
-            text: "可画设计",
-            link: "https://www.canva.cn/",
-          },
-          {
-            text: "图怪兽",
-            link: "https://818ps.com//",
-          },
-          {
-            text: "扁平插图",
-            link: "https://undraw.co/illustrations",
-          },
-        ],
-      },
-      {
-        text: "转换工具",
-        children: [
-          {
-            text: "carbon",
-            link: "https://carbon.now.sh/",
-          },
-          {
-            text: "mdnice",
-            link: "https://www.mdnice.com/",
-          },
-          {
-            text: "MD2富文本",
-            link: "https://doocs.github.io/md/",
-          },
-          {
-            text: "小码短链接",
-            link: "https://xiaomark.com/",
-          },
-          {
-            text: "JSON转typescript",
-            link: "https://tooltt.com/json2typescript/",
-          },
-        ],
-      },
-      {
         text: "查询一下",
         children: [
           {
@@ -159,6 +104,61 @@ module.exports = {
           {
             text: "emojiall",
             link: "https://www.emojiall.com/zh-hans/all-cate",
+          },
+        ],
+      },
+      {
+        text: "转换工具",
+        children: [
+          {
+            text: "carbon",
+            link: "https://carbon.now.sh/",
+          },
+          {
+            text: "mdnice",
+            link: "https://www.mdnice.com/",
+          },
+          {
+            text: "MD2富文本",
+            link: "https://doocs.github.io/md/",
+          },
+          {
+            text: "小码短链接",
+            link: "https://xiaomark.com/",
+          },
+          {
+            text: "JSON转typescript",
+            link: "https://tooltt.com/json2typescript/",
+          },
+        ],
+      },
+      {
+        text: "绘图区",
+        children: [
+          {
+            text: "在线流程图",
+            link: "https://www.processon.com/",
+          },
+          {
+            text: "手绘风绘图",
+            link: "https://excalidraw.com/",
+          },
+        ],
+      },
+      {
+        text: "设计工具",
+        children: [
+          {
+            text: "可画设计",
+            link: "https://www.canva.cn/",
+          },
+          {
+            text: "图怪兽",
+            link: "https://818ps.com//",
+          },
+          {
+            text: "扁平插图",
+            link: "https://undraw.co/illustrations",
           },
         ],
       },
