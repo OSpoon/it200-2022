@@ -1,6 +1,7 @@
 # 学习资料
 ---
 <content-page 
+    uid="9f41077f-4f56-4c0f-a6b9-21a7aa869ee1"
     :superlink="[
       {
         uuid:'9d948162-8988-42b9-8c00-35ca85d0c6c1',

@@ -4,6 +4,7 @@
 ## NPM实用收集
 
 <content-page
+    uid="e15e0b60-a428-40de-9d55-59c81a4397c0"
     :superlink="[
         {
             uuid:'62fdb531-15ec-4b58-a814-0cc27c2ce1cf',
@@ -55,6 +56,7 @@
 ## 报表
 
 <content-page
+    uid="9e2a3c0e-bf60-4358-8216-618ad4887de1"
     :superlink="[
         {
             title: 'Echarts',
@@ -68,6 +70,7 @@
 ## CSS&动画
 
 <content-page
+    uid="847aaa77-d93c-45c6-a21c-e86585e3187e"
     :superlink="[
         {
             title: 'Tailwindcss',
@@ -99,6 +102,7 @@
 ## 3D
 
 <content-page
+    uid="146718eb-8551-4958-96f2-563728998a5d"
     :superlink="[
         {
             title: 'Three.js',
@@ -112,6 +116,7 @@
 ## 转换
 
 <content-page
+    uid="01b36d64-b10f-4396-b7ed-3ca316b3292a"
     :superlink="[
         {
             title: 'Postcss',

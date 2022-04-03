@@ -1,6 +1,7 @@
 # 云测平台
 ---
 <content-page 
+    uid="d1d29e4e-639d-48b8-a31d-9f8245f9dd99"
     :superlink="[
         {
           uuid:'f7a24e71-17c9-445d-a327-f47d7150bd8e',

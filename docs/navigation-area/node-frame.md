@@ -3,6 +3,7 @@
 ## Node系列
 
 <content-page 
+    uid="0ed757fb-53b3-4111-a7e4-3f9379ea4ccd"
     :superlink="[
         {
             uuid:'dded7ad5-32e9-4e78-88ad-91c600f64d13',
@@ -59,6 +60,7 @@
 ## 构建系列
 
 <content-page
+    uid="e2392323-8f47-40bb-b944-34987e18492d"
     :superlink="[
         {
             title: 'Vite',

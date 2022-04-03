@@ -1,5 +1,5 @@
 <template>
-  <div class="layout-page">
+  <div class="layout-page" :id="uid">
     <template v-for="link in superlink" :key="link.uuid">
       <div class="itemBox">
         <img class="logo" :src="link.icon" />
@@ -19,6 +19,10 @@
 <script>
 export default {
   props: {
+    uid: {
+      type: String,
+      default: '',
+    },
     superlink: {
       type: Array,
       default: [],

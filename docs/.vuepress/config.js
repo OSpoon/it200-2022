@@ -173,6 +173,7 @@ module.exports = {
       },
     ],
     sidebar: [
+      `${root}/readme.md`,
       `${root}/fe-frame.md`,
       `${root}/node-frame.md`,
       `${root}/universal-library.md`,

@@ -2,7 +2,9 @@
 
 ## 查询工具
 
-<content-page :superlink="[
+<content-page 
+    uid="25f3161c-7991-41b3-903e-4ee46f416872"
+    :superlink="[
         {
           uuid:'8c11e379-6c1a-4012-8e11-eec5ca1ea6eb',
           title: 'Web 开发技术 | MDN',
@@ -81,7 +83,9 @@
 
 ## 小工具
 
-<content-page :superlink="[
+<content-page 
+    uid="4739fb35-98fc-4b7f-a792-93eac6ae4c23"
+    :superlink="[
         {
           uuid:'a2757d85-0678-489e-a36e-f7619732ce03',
           title: 'carbon',
