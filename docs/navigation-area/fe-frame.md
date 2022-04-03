@@ -127,7 +127,7 @@
 
 ## 3. React-系列
 
-<content-page
+<!-- <content-page
     :superlink="[
         {
             title: 'React',
@@ -172,11 +172,11 @@
             description: '基于 Ant Design 设计体系的 React UI 组件库，主要用于研发企业级中后台产品。',
         },
     ]"
-/>
+/> -->
 
 ## 4. Angular-系列
 
-<content-page
+<!-- <content-page
     :superlink="[
         {
             title: 'Angular',
@@ -209,7 +209,7 @@
             description: 'Animated playground for Rx Observables',
         },
     ]"
-/>
+/> -->
 
 
 ## 5. 更多系列
