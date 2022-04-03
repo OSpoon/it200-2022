@@ -31,7 +31,7 @@
     ]"
 />
 
-## 2. Vue 系列
+## 2. Vue-系列
 
 <content-page
     :superlink="[
@@ -125,7 +125,7 @@
     ]"
 />
 
-## 3. React 系列
+## 3. React-系列
 
 <content-page
     :superlink="[
@@ -174,7 +174,7 @@
     ]"
 />
 
-## 4. Angular 系列
+## 4. Angular-系列
 
 <content-page
     :superlink="[
