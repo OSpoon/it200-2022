@@ -124,6 +124,44 @@
 />
 
 
+
+
+## Angular 系列
+<content-page
+    :superlink="[
+        {
+            title: 'Angular',
+            icon: 'https://angular.cn/assets/images/favicons/favicon.ico',
+            href: 'https://angular.cn/',
+            description: '一套框架，多种平台；移动端 & 桌面端',
+        },
+        {
+            title: 'AntDAngular',
+            icon: '/images/antd-angular.png',
+            href: 'https://ng.ant.design/docs/introduce/zh',
+            description: '遵循 Ant Design 设计规范的 Angular UI 组件库，主要用于研发企业级中后台产品。全部代码开源并遵循 MIT 协议，任何企业、组织及个人均可免费使用。',
+        },
+        {
+            title: 'Angular Material',
+            icon: 'https://material.angular.cn/assets/img/favicons/favicon.ico?v=8.2.3',
+            href: 'https://material.angular.cn/',
+            description: 'Material Design 组件库 for Angular',
+        },
+        {
+            title: 'RxJS Marbles',
+            icon: 'https://rxmarbles.com/favicon.png',
+            href: 'https://rxmarbles.com/',
+            description: 'Interactive diagrams of Rx Observables',
+        },
+        {
+            title: 'Rx Visualizer',
+            icon: 'https://rxviz.com/favicon.png',
+            href: 'https://rxviz.com/',
+            description: 'Animated playground for Rx Observables',
+        },
+    ]"
+/>
+
 ## React 系列
 <content-page
     :superlink="[
@@ -172,41 +210,6 @@
     ]"
 />
 
-## Angular 系列
-<content-page
-    :superlink="[
-        {
-            title: 'Angular',
-            icon: 'https://angular.cn/assets/images/favicons/favicon.ico',
-            href: 'https://angular.cn/',
-            description: '一套框架，多种平台；移动端 & 桌面端',
-        },
-        {
-            title: 'AntDAngular',
-            icon: '/images/antd-angular.png',
-            href: 'https://ng.ant.design/docs/introduce/zh',
-            description: '遵循 Ant Design 设计规范的 Angular UI 组件库，主要用于研发企业级中后台产品。全部代码开源并遵循 MIT 协议，任何企业、组织及个人均可免费使用。',
-        },
-        {
-            title: 'Angular Material',
-            icon: 'https://material.angular.cn/assets/img/favicons/favicon.ico?v=8.2.3',
-            href: 'https://material.angular.cn/',
-            description: 'Material Design 组件库 for Angular',
-        },
-        {
-            title: 'RxJS Marbles',
-            icon: 'https://rxmarbles.com/favicon.png',
-            href: 'https://rxmarbles.com/',
-            description: 'Interactive diagrams of Rx Observables',
-        },
-        {
-            title: 'Rx Visualizer',
-            icon: 'https://rxviz.com/favicon.png',
-            href: 'https://rxviz.com/',
-            description: 'Animated playground for Rx Observables',
-        },
-    ]"
-/>
 
 ## 更多系列
 <content-page
