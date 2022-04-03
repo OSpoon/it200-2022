@@ -1,8 +1,8 @@
 # 前端框架
 
-<!-- ## 基础系列 -->
+## 基础系列
 
-<!-- <content-page 
+<content-page 
     :superlink="[
         {
             title: 'JavaScript',
@@ -29,11 +29,11 @@
             href: 'https://www.typescriptlang.org/zh/play',
         },
     ]"
-/> -->
+/>
 
-<!-- ## Vue-系列 -->
+## Vue-系列
 
-<!-- <content-page
+<content-page
     :superlink="[
         {
             title: 'Vue.js',
@@ -123,12 +123,12 @@
             description: '一套京东风格的轻量级移动端Vue组件库',
         },
     ]"
-/> -->
+/>
 
 
-<!-- ## React-系列 -->
+## React-系列
 
-<!-- <content-page
+<content-page
     :superlink="[
         {
             title: 'React',
@@ -173,11 +173,11 @@
             description: '基于 Ant Design 设计体系的 React UI 组件库，主要用于研发企业级中后台产品。',
         },
     ]"
-/> -->
+/>
 
-<!-- ## Angular-系列 -->
+## Angular-系列
 
-<!-- <content-page
+<content-page
     :superlink="[
         {
             title: 'Angular',
@@ -210,10 +210,10 @@
             description: 'Animated playground for Rx Observables',
         },
     ]"
-/> -->
+/>
 
 
-<!-- ## 更多系列 -->
+## 更多系列
 
 <content-page
     :superlink="[
