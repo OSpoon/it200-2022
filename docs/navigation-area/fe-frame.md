@@ -1,8 +1,6 @@
 # 前端框架
 
-
 ## 基础系列
-
 <content-page
     :superlink="[
         {
@@ -32,9 +30,7 @@
     ]"
 />
 
-
 ## Vue 系列
-
 <content-page
     :superlink="[
         {
@@ -129,7 +125,6 @@
 
 
 ## React 系列
-
 <content-page
     :superlink="[
         {
@@ -178,7 +173,6 @@
 />
 
 ## Angular 系列
-
 <content-page
     :superlink="[
         {
@@ -215,7 +209,6 @@
 />
 
 ## 更多系列
-
 <content-page
     :superlink="[
         {
