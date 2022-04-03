@@ -213,7 +213,7 @@
 /> -->
 
 
-## 更多系列
+<!-- ## 更多系列 -->
 
 <content-page
     :superlink="[
@@ -245,8 +245,7 @@
             title: 'Taro',
             icon: 'http://taro-docs.jd.com/taro/img/favicon.ico',
             href: 'http://taro-docs.jd.com/',
-            description:
-            'Taro 是一个开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发',
+            description: 'Taro 是一个开放式跨端跨框架解决方案，支持使用 React/Vue/Nerv 等框架来开发',
         },
         {
             title: 'uni-app',
