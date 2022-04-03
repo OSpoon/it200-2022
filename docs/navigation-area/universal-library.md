@@ -16,7 +16,7 @@
         {
             uuid:'9a552554-8535-462c-8f57-b806578ceade',
             title: 'Moment.js',
-            icon: 'http://momentjs.cn/static/img/moment-favicon.png',
+            icon: '/it200.cn/images/moment-favicon.png',
             href: 'http://momentjs.cn/',
             description: 'JavaScript 日期处理类库',
         },

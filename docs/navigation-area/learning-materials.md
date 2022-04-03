@@ -55,7 +55,7 @@
       {
         uuid:'658d7031-388d-4f2d-9bb2-c4957d37af58',
         title: 'Apache JMeter',
-        icon: '/images/apache.png',
+        icon: '/it200.cn/images/apple-touch-icon.png',
         href: 'https://jmeter.apache.org/download_jmeter.cgi',
         description: 'The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.',
       },

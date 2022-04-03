@@ -111,7 +111,7 @@
         {
           uuid:'da728acc-cfab-4bba-9e9c-a47c63e86412',
           title: 'Toptal',
-          icon: '/images/toptal.webp',
+          icon: '/it200.cn/images/toptal.webp',
           href: 'https://www.toptal.com/developers/css/sprite-generator',
           description: 'CSS Sprites Generator'
         },

@@ -8,7 +8,7 @@
         {
             uuid:'dded7ad5-32e9-4e78-88ad-91c600f64d13',
             title: 'Node.js',
-            icon: 'http://img.nodejs.cn/favicon.png',
+            icon: '/it200.cn/images/nodejs.png',
             href: 'http://nodejs.cn/',
             description: 'Node.js 是一个基于 Chrome V8 引擎的 JavaScript 运行时。',
         },
