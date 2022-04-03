@@ -1,8 +1,8 @@
 # 前端框架
 
-## 1. 基础系列
+## 基础系列
 
-<content-page
+<!-- <content-page 
     :superlink="[
         {
             title: 'JavaScript',
@@ -29,7 +29,7 @@
             href: 'https://www.typescriptlang.org/zh/play',
         },
     ]"
-/>
+/> -->
 
 ## 2. Vue-系列
 
@@ -124,6 +124,7 @@
         },
     ]"
 /> -->
+
 
 ## 3. React-系列
 
@@ -249,7 +250,7 @@
         },
         {
             title: 'uni-app',
-            icon: 'https://gimg2.baidu.com/image_search/src=http%3A%2F%2Fp8.itc.cn%2Fimages01%2F20210622%2Fb2f45b67d1734886b5ed04779e823052.jpeg&refer=http%3A%2F%2Fp8.itc.cn&app=2002&size=f9999,10000&q=a80&n=0&g=0n&fmt=jpeg?sec=1637760430&t=3335d0e2ba38c2121400890f33e1d1e7',
+            icon: '/images/uni-app.png',
             href: 'https://uniapp.dcloud.io/',
             description: 'uni-app：一个使用 Vue.js 开发跨平台应用的前端框架',
         },
