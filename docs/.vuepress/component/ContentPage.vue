@@ -1,6 +1,6 @@
 <template>
   <div class="layout-page">
-    <template v-for="link in superlink" :key="link.href">
+    <template v-for="link in superlink" :key="link.uuid">
       <div class="itemBox">
         <img class="logo" :src="link.icon" />
         <div class="itemBoxRight">
