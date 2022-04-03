@@ -33,7 +33,7 @@
 
 ## 2. Vue-系列
 
-<content-page
+<!-- <content-page
     :superlink="[
         {
             title: 'Vue.js',
@@ -123,7 +123,7 @@
             description: '一套京东风格的轻量级移动端Vue组件库',
         },
     ]"
-/>
+/> -->
 
 ## 3. React-系列
 
