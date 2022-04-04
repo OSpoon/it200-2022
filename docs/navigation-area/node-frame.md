@@ -59,7 +59,7 @@
 
 ## 构建系列
 
-<content-page
+<content-page 
     uid="e2392323-8f47-40bb-b944-34987e18492d"
     :superlink="[
         {

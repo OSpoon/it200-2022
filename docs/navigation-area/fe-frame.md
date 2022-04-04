@@ -1,6 +1,7 @@
 # 前端框架
 
 ## 基础系列
+
 <content-page 
     uid="da7c837c-190c-4030-9397-9063b3d32c01"
     :superlink="[
@@ -35,8 +36,9 @@
     ]"
 />
 
-## Vue-系列
-<content-page
+## Vue 系列
+
+<content-page 
     uid="2c9ac5b6-e35a-467e-b0d2-daaad88c4afd"
     :superlink="[
         {
@@ -140,8 +142,9 @@
     ]"
 />
 
-## React-系列
-<content-page
+## React 系列
+
+<content-page 
     uid="96f4c442-40ba-4f56-a08b-fc50c368dfa0"
     :superlink="[
         {
@@ -196,8 +199,9 @@
     ]"
 />
 
-## Angular-系列
-<content-page
+## Angular 系列
+
+<content-page 
     uid="8ce4a8ad-36f5-4dca-8bb6-baf99dcb8af0"
     :superlink="[
         {
@@ -238,8 +242,9 @@
     ]"
 />
 
-## 更多系列
-<content-page
+## 更多关注
+
+<content-page 
     uid="1516ff2f-1876-4a31-90d1-6b9da9f1ba1c"
     :superlink="[
         {

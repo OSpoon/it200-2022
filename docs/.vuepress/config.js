@@ -3,7 +3,7 @@ module.exports = {
   lang: "zh-CN",
   title: "IT200持续为您导航",
   description: "IT200持续为您导航",
-  base: "/it200.cn/",
+  // base: "/it200.cn/",
   theme: "@vuepress/theme-default",
   themeConfig: {
     logo: "/images/logo.b96656d2.jpg",
@@ -173,7 +173,6 @@ module.exports = {
       },
     ],
     sidebar: [
-      `${root}/readme.md`,
       `${root}/fe-frame.md`,
       `${root}/node-frame.md`,
       `${root}/universal-library.md`,
