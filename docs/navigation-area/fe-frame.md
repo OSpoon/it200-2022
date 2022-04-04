@@ -285,7 +285,7 @@
         {
           uuid:'df3d5df0-f140-4095-b547-e0b92b1fa891',
           title: 'uni-app',
-          icon: '/it200.cn/images/uni-app.png',
+          icon: '/images/uni-app.png',
           href: 'https://uniapp.dcloud.io/',
           description: 'uni-app：一个使用 Vue.js 开发跨平台应用的前端框架',
         },
