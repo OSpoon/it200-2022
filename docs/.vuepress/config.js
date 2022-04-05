@@ -176,6 +176,7 @@ module.exports = {
       `${root}/fe-frame.md`,
       `${root}/node-frame.md`,
       `${root}/universal-library.md`,
+      `${root}/chrome-plug-in.md`,
       `${root}/learning-materials.md`,
       `${root}/all-tools.md`,
       `${root}/design-correlation.md`,
