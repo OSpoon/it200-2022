@@ -26,8 +26,9 @@ footer: MIT Licensed | Copyright © 2022 小鑫同学
     <img src="https://readme-typing-svg.herokuapp.com/?lines=👋 Hi, I'm 小鑫同学&center=true&size=30">
 </h1>
 
+<!-- https://metrics.lecoq.io/ -->
 <div align="center">
-  <img src="https://metrics.lecoq.io/OSpoon?template=classic&config.timezone=Asia%2FShanghai">
+  <img src="https://metrics.lecoq.io/OSpoon?template=classic&base.activity=0&base.repositories=0&base.metadata=0&isocalendar=1&languages=1&introduction=1&isocalendar.duration=half-year&languages.limit=8&languages.threshold=0%25&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&introduction.title=true&config.timezone=Asia%2FShanghai&config.padding=0%2C%204%20%2B%205%25">
 </div>
 
 <!-- <div align="center">
