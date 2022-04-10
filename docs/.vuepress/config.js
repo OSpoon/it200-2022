@@ -1,16 +1,19 @@
+const { path } = require('@vuepress/utils');
 const root = "/navigation-area";
 module.exports = {
   lang: "zh-CN",
   title: "IT200持续为您导航",
   description: "IT200持续为您导航",
   // base: "/it200.cn/",
-  theme: "@vuepress/theme-default",
+  // theme: "@vuepress/theme-default",
+  theme: path.resolve(__dirname, './theme'),
   themeConfig: {
     logo: "/images/logo.b96656d2.jpg",
     repo: "https://github.com/OSpoon/it200-2022",
-    editLinkText: "编辑此页",
-    lastUpdatedText: "最近更新时间",
-    contributorsText: "贡献者列表",
+    editLinkText: "编辑页面",
+    contributors:false,
+    contributorsText: '贡献者',
+    lastUpdatedText:'上次更新',
     docsRepo: "https://github.com/OSpoon/it200.cn",
     docsBranch: "main",
     docsDir: "docs",
@@ -197,5 +200,18 @@ module.exports = {
         },
       },
     ],
+    // [
+    //   '@vuepress/plugin-docsearch',
+    //   {
+    //     apiKey: '',
+    //     indexName: '',
+    //     searchParameters: {
+    //       facetFilters: ['tags:v2'],
+    //     },
+    //     locales: {
+    //       placeholder:"搜索文档"
+    //     },
+    //   },
+    // ],
   ],
 };
