@@ -18,11 +18,11 @@ export default {
   },
   setup() {
     const route = useRoute()
-    let badge = ref(`https://visitor-badge.glitch.me/badge?page_id=vp.it200.cn.${route.path}`)
+    let badge = ref(`https://visitor-badge.laobi.icu/badge?page_id=vp.it200.cn.${route.path}`)
     watch(
       ()=>route.path,
       path=>{
-        badge.value = `https://visitor-badge.glitch.me/badge?page_id=vp.it200.cn.${path}`
+        badge.value = `https://visitor-badge.laobi.icu/badge?page_id=vp.it200.cn.${path}`
       },
     )
     return { badge }
