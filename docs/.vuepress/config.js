@@ -18,6 +18,7 @@ module.exports = {
     docsBranch: "main",
     docsDir: "docs",
     editLinkPattern: ":repo/edit/:branch/:path",
+    home: "./fe-frame.md",
     navbar: [
       {
         text: "页面内容你来定",
