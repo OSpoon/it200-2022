@@ -33,6 +33,27 @@
           icon: 'https://www.tslang.cn/assets/images/icons/favicon.ico',
           href: 'https://www.typescriptlang.org/zh/play',
         },
+        {
+          uuid:'b85cd2fa-6adc-4eb5-b6c7-85b9a115cb8a',
+          title: 'ECMA-262',
+          description: 'This Standard defines the ECMAScript 2021 general-purpose programming language ！',
+          icon: 'https://www.ecma-international.org/wp-content/uploads/ecma-favicon@2x-300x300.png',
+          href: 'https://www.ecma-international.org/publications-and-standards/standards/ecma-262/',
+        },
+        {
+          uuid:'eef31c1d-76d7-45d7-8e50-5a765be06363',
+          title: 'Sass',
+          description: '世界上最成熟、最稳定、最强大的专业级CSS扩展语言！',
+          icon: 'https://www.sass.hk/favicon.ico',
+          href: 'https://www.sass.hk/',
+        },
+        {
+          uuid:'269c36b0-2588-48dc-aac6-4203600a89ad',
+          title: 'Less',
+          description: '给 CSS 加点料。',
+          icon: 'https://less.bootcss.com/public/ico/favicon.ico',
+          href: 'https://less.bootcss.com/',
+        },
     ]"
 />
 
