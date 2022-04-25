@@ -8,7 +8,7 @@
         {
           uuid:'147cfbdb-8159-4881-8431-52793998373f',
           title: 'MDN',
-          icon: 'https://developer.mozilla.org/favicon-192x192.png',
+          icon: '/images/mozilla.png',
           href: 'https://developer.mozilla.org/zh-CN/docs/Web',
           description: '开放的 Web 为开发者提供了巨大的机遇，为了充分利用这些技术，你需要知道如何使用它们。在下方你可以找到相关 Web 技术的文档链接。',
         },
@@ -16,7 +16,7 @@
           uuid:'b85cd2fa-6adc-4eb5-b6c7-85b9a115cb8a',
           title: 'ECMA-262',
           description: 'This Standard defines the ECMAScript 2021 general-purpose programming language ！',
-          icon: 'https://www.ecma-international.org/wp-content/uploads/ecma-favicon@2x-300x300.png',
+          icon: '/images/ecma.png',
           href: 'https://www.ecma-international.org/publications-and-standards/standards/ecma-262/',
         },
         {
@@ -205,7 +205,7 @@
         {
           uuid:'78341854-ee9c-4400-96d8-947bf4311beb',
           title: 'Vue-Element-Admin',
-          icon: 'https://panjiachen.gitee.io/vue-element-admin-site/favicon.ico',
+          icon: '/images/panjiachen.ico',
           href: 'https://panjiachen.gitee.io/vue-element-admin-site/zh/',
           description: 'vue-element-admin',
         },
@@ -227,14 +227,14 @@
         {
           uuid:'9a69ecab-4acb-4796-aa53-a5d7a918c10a',
           title: 'React',
-          icon: 'https://react.docschina.org/favicon.ico',
+          icon: '/images/react.ico',
           href: 'https://react.docschina.org/',
           description: '用于构建用户界面的 JavaScript 库',
         },
         {
           uuid:'9e8c5ae7-d9db-4849-81ca-d326e4d20f07',
           title: 'Create React App',
-          icon: 'https://www.html.cn/create-react-app/img/logo.svg',
+          icon: '/images/react.ico',
           href: 'http://www.html.cn/create-react-app/',
           description: '通过运行一个命令来建立现代Web应用程序。',
         },
@@ -298,7 +298,7 @@
         {
             uuid:'feeaea2d-0eb3-4011-8b61-ba5ebe2c8d9d',
             title: 'RxJS Marbles',
-            icon: 'https://rxmarbles.com/favicon.png',
+            icon: '/images/rxmarbles.png',
             href: 'https://rxmarbles.com/',
             description: 'Interactive diagrams of Rx Observables',
         },
@@ -331,7 +331,7 @@
         },
         {
             title: 'Rollupjs',
-            icon: 'https://www.rollupjs.com/img/favicon.png',
+            icon: '/images/rollupjs.png',
             href: 'https://www.rollupjs.com/',
             description:
             'Rollup 是一个 JavaScript 模块打包器，可以将小块代码编译成大块复杂的代码，例如 library 或应用程序。',
@@ -345,13 +345,13 @@
         },
         {
             title: 'Gulpjs',
-            icon: 'https://www.gulpjs.com.cn/img/favicon.png',
+            icon: '/images/gulpjs.png',
             href: 'https://www.gulpjs.com.cn/',
             description: '用自动化构建工具增强你的工作流程！',
         },
         {
             title: 'Babel',
-            icon: 'https://babel.docschina.org/img/babel.svg',
+            icon: '/images/babel.svg',
             href: 'https://babel.docschina.org/',
             description: 'Babel 是一个 JavaScript 编译器。',
         },
@@ -373,7 +373,7 @@
         {
           uuid:'0d38c49e-876a-43f7-b306-54cb025c41dc',
           title: 'MicroApp',
-          icon: 'https://micro-zoe.github.io/micro-app/favicon.ico',
+          icon: '/images/micro-zoe.ico',
           href: 'https://micro-zoe.github.io/micro-app/',
           description: '一款轻量、高效、功能强大的微前端框架',
         },

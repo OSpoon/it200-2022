@@ -122,7 +122,7 @@
         {
           uuid:'30528625-0e05-427b-956e-0ed379a2bcdc',
           title: 'ManyPixels',
-          icon: 'https://www.manypixels.co/favicon.ico',
+          icon: '/images/manypixels.ico',
           href: 'https://www.manypixels.co/gallery',
           description: '2,500+ royalty-free illustrations to power up your designs'
         },

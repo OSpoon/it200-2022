@@ -8,7 +8,7 @@
         {
           uuid:'8c11e379-6c1a-4012-8e11-eec5ca1ea6eb',
           title: 'Web 开发技术 | MDN',
-          icon: 'https://developer.mozilla.org/favicon.ico',
+          icon: '/images/mozilla.ico',
           href: 'https://developer.mozilla.org/zh-CN/docs/Web',
           description: 'Web 开发技术 面向 Web 开发者的文档',
         },
@@ -118,7 +118,7 @@
         {
           uuid:'984476be-8fe9-400e-bda8-7523fc47bc2a',
           title: 'Form-Generator',
-          icon: 'https://mrhj.gitee.io/form-generator/img/logo.e1bc3747.png',
+          icon: '/images/form-generator.png',
           href: 'https://mrhj.gitee.io/form-generator/#/',
           description: 'form-generator'
         },
@@ -220,7 +220,7 @@
         {
           uuid:'bc9561dc-7272-429a-8cfc-1ed96568defe',
           title: 'Android Asset Studio',
-          icon: 'http://romannurik.github.io/AndroidAssetStudio/favicon.ico',
+          icon: '/images/romannurik.ico',
           href: 'http://romannurik.github.io/AndroidAssetStudio/index.html',
           description: 'A collection of tools to easily generate assets such as launcher icons for your Android app.'
         }

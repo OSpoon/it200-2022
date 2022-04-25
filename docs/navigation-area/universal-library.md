@@ -60,7 +60,7 @@
     :superlink="[
         {
             title: 'Echarts',
-            icon: 'https://cdn.jsdelivr.net/gh/apache/echarts-website@asf-site/zh/images/favicon.png?_v_=20200710_1',
+            icon: '/images/jsdelivr.png',
             href: 'https://echarts.apache.org/zh/index.html',
             description: '一个基于 JavaScript 的开源可视化图表库',
         }
@@ -92,7 +92,7 @@
         },
         {
             title: 'mojs',
-            icon: 'https://mojs.github.io/assets/favicons/favicon.ico',
+            icon: '/images/mojs.ico',
             href: 'https://mojs.github.io/',
             description: 'mojs.github.io',
         },
@@ -112,7 +112,7 @@
     :superlink="[
         {
             title: 'Three.js',
-            icon: 'https://threejs.org/files/favicon.ico',
+            icon: '/images/threejs.ico',
             href: 'https://threejs.org/',
             description: 'JavaScript 3D library',
         }
