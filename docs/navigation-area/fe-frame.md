@@ -1,10 +1,24 @@
 # 前端框架
 
-## 基础系列
+## 文档和教程
 
 <content-page 
-    uid="da7c837c-190c-4030-9397-9063b3d32c01"
+    uid="31e266c0-edab-4ab3-91fc-d911c83c5038"
     :superlink="[
+        {
+          uuid:'147cfbdb-8159-4881-8431-52793998373f',
+          title: 'MDN',
+          icon: 'https://developer.mozilla.org/favicon-192x192.png',
+          href: 'https://developer.mozilla.org/zh-CN/docs/Web',
+          description: '开放的 Web 为开发者提供了巨大的机遇，为了充分利用这些技术，你需要知道如何使用它们。在下方你可以找到相关 Web 技术的文档链接。',
+        },
+        {
+          uuid:'b85cd2fa-6adc-4eb5-b6c7-85b9a115cb8a',
+          title: 'ECMA-262',
+          description: 'This Standard defines the ECMAScript 2021 general-purpose programming language ！',
+          icon: 'https://www.ecma-international.org/wp-content/uploads/ecma-favicon@2x-300x300.png',
+          href: 'https://www.ecma-international.org/publications-and-standards/standards/ecma-262/',
+        },
         {
           uuid:'2c34229d-45bb-4db6-88b5-609db3b05f33',
           title: 'JavaScript',
@@ -27,11 +41,95 @@
           href: 'https://www.typescriptlang.org/',
         },
         {
-          uuid:'25f2c720-3e3d-4f24-9e89-7270b1186149',
-          title: 'Playground',
-          description: 'TypeScript演练场',
-          icon: 'https://www.tslang.cn/assets/images/icons/favicon.ico',
-          href: 'https://www.typescriptlang.org/zh/play',
+          uuid:'eef31c1d-76d7-45d7-8e50-5a765be06363',
+          title: 'Sass',
+          description: '世界上最成熟、最稳定、最强大的专业级CSS扩展语言！',
+          icon: 'https://www.sass.hk/favicon.ico',
+          href: 'https://www.sass.hk/',
+        },
+        {
+          uuid:'269c36b0-2588-48dc-aac6-4203600a89ad',
+          title: 'Less',
+          description: '给 CSS 加点料。',
+          icon: 'https://less.bootcss.com/public/ico/favicon.ico',
+          href: 'https://less.bootcss.com/',
+        },
+        {
+          uuid:'8853df86-5a7d-4e4e-b53d-f4be6a44e81b',
+          title: '现代 JavaScript 教程',
+          description: '以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。',
+          icon: 'https://zh.javascript.info/img/favicon/favicon.png',
+          href: 'https://zh.javascript.info/',
+        },
+        {
+            title: 'GraphQL',
+            icon: 'https://graphql.cn/favicon.ico',
+            href: 'https://graphql.cn/',
+            description: '一种用于 API 的查询语言',
+        },
+    ]"
+/>
+
+## Components
+
+<content-page 
+    uid="35d5b666-9dfd-40ef-9355-ef490caa62f6"
+    :superlink="[
+        {
+          uuid:'8df791df-601b-4605-8398-1224f0b241a3',
+          title: 'Ant Design Vue',
+          icon: 'https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png',
+          href: 'https://vue.ant.design/docs/vue/introduce-cn/',
+          description: '这里是 Ant Design 的 Vue 实现，开发和服务于企业级后台产品。',
+        },
+        {
+          uuid:'19e87db8-6b53-4138-9924-84341c53a673',
+          title: 'Ant Design of React',
+          icon: '/images/antd-react.svg',
+          href: 'https://ant.design/docs/react/introduce-cn',
+          description: '基于 Ant Design 设计体系的 React UI 组件库，主要用于研发企业级中后台产品。',
+        },
+        {
+          uuid:'b8048042-ac63-421a-8873-db245700c6d9',
+          title: 'Element',
+          icon: 'https://element.eleme.cn/favicon.ico',
+          href: 'https://element.eleme.cn/',
+          description: 'Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库',
+        },
+        {
+          uuid:'4432cc4b-b0fc-449b-b38b-2ef30f5fc152',
+          title: 'Vant-UI',
+          icon: 'https://img01.yzcdn.cn/vant/logo.png',
+          href: 'https://vant-contrib.gitee.io/vant/#/zh-CN/',
+          description: '有赞前端团队开源的移动端组件库',
+        },
+        {
+          uuid:'95d4d699-8298-46bf-af63-fa39c8df6c29',
+          title: 'View-UI',
+          icon: 'https://file.iviewui.com/file/iview-design-favicon.ico',
+          href: 'http://v1.iviewui.com/',
+          description: '一套基于 Vue.js 的高质量 UI 组件库',
+        },
+        {
+          uuid:'42480bb0-c3ae-43ae-b13e-1effdacc6959',
+          title: 'NutUI',
+          icon: '/images/NutUI.png',
+          href: 'https://nutui.jd.com/#/index',
+          description: '一套京东风格的轻量级移动端Vue组件库',
+        },
+        {
+          uuid:'580f5f0a-6114-474a-b135-103f8f41b89f',
+          title: 'vxetable',
+          icon: 'https://vxetable.cn/logo.png',
+          href: 'https://vxetable.cn/#/',
+          description: 'vxe-table vue 表格解决方案',
+        },
+        {
+          uuid:'580f5f0a-6114-474a-b135-103f8f41b89f',
+          title: 'NutUI-Bingo',
+          icon: 'https://img14.360buyimg.com/imagetools/jfs/t1/167902/2/8762/791358/603742d7E9b4275e3/e09d8f9a8bf4c0ef.png',
+          href: 'https://nutui.jd.com/bingo/#/',
+          description: '基于 NutUI 的抽奖组件库，助力营销活动和小游戏场景。',
         },
     ]"
 />
@@ -70,13 +168,6 @@
           description: 'The Vue Store that you will enjoy using',
         },
         {
-          uuid:'580f5f0a-6114-474a-b135-103f8f41b89f',
-          title: 'vxetable',
-          icon: 'https://vxetable.cn/logo.png',
-          href: 'https://vxetable.cn/#/',
-          description: 'vxe-table vue 表格解决方案',
-        },
-        {
           uuid:'0caf9357-d716-4519-868e-951971f90d74',
           title: 'Nuxtjs',
           icon: 'https://nuxtjs.org/_nuxt/icons/icon_64x64.a3b4ce.png',
@@ -103,41 +194,6 @@
           icon: '/images/vuepress.png',
           href: 'https://v2.vuepress.vuejs.org/zh/',
           description: 'Vue 驱动的静态网站生成器',
-        },
-        {
-         uuid:'8df791df-601b-4605-8398-1224f0b241a3',
-         title: 'Ant Design Vue',
-         icon: 'https://gw.alipayobjects.com/zos/rmsportal/rlpTLlbMzTNYuZGGCVYM.png',
-         href: 'https://vue.ant.design/docs/vue/introduce-cn/',
-         description: '这里是 Ant Design 的 Vue 实现，开发和服务于企业级后台产品。',
-        },
-        {
-          uuid:'b8048042-ac63-421a-8873-db245700c6d9',
-          title: 'Element',
-          icon: 'https://element.eleme.cn/favicon.ico',
-          href: 'https://element.eleme.cn/',
-          description: 'Element，一套为开发者、设计师和产品经理准备的基于 Vue 2.0 的桌面端组件库',
-        },
-        {
-          uuid:'4432cc4b-b0fc-449b-b38b-2ef30f5fc152',
-          title: 'Vant-UI',
-          icon: 'https://img01.yzcdn.cn/vant/logo.png',
-          href: 'https://vant-contrib.gitee.io/vant/#/zh-CN/',
-          description: '有赞前端团队开源的移动端组件库',
-        },
-        {
-          uuid:'95d4d699-8298-46bf-af63-fa39c8df6c29',
-          title: 'View-UI',
-          icon: 'https://file.iviewui.com/file/iview-design-favicon.ico',
-          href: 'http://v1.iviewui.com/',
-          description: '一套基于 Vue.js 的高质量 UI 组件库',
-        },
-        {
-          uuid:'42480bb0-c3ae-43ae-b13e-1effdacc6959',
-          title: 'NutUI',
-          icon: '/images/NutUI.png',
-          href: 'https://nutui.jd.com/#/index',
-          description: '一套京东风格的轻量级移动端Vue组件库',
         },
     ]"
 />
@@ -188,14 +244,7 @@
           icon: '/images/ahooks.svg',
           href: 'https://ahooks.js.org/zh-CN',
           description: '一套高质量可靠的 React Hooks 库',
-        },
-        {
-          uuid:'19e87db8-6b53-4138-9924-84341c53a673',
-          title: 'Ant Design of React',
-          icon: '/images/antd-react.svg',
-          href: 'https://ant.design/docs/react/introduce-cn',
-          description: '基于 Ant Design 设计体系的 React UI 组件库，主要用于研发企业级中后台产品。',
-        },
+        }
     ]"
 />
 
@@ -238,6 +287,52 @@
             icon: 'https://rxviz.com/favicon.png',
             href: 'https://rxviz.com/',
             description: 'Animated playground for Rx Observables',
+        },
+    ]"
+/>
+
+## 编译构建
+
+<content-page 
+    uid="e2392323-8f47-40bb-b944-34987e18492d"
+    :superlink="[
+        {
+            title: 'Vite',
+            icon: '/images/vite.svg',
+            href: 'https://cn.vitejs.dev/',
+            description: '下一代前端开发与构建工具',
+        },
+        {
+            title: 'Webpackjs',
+            icon: 'https://www.webpackjs.com/assets/favicon.ico',
+            href: 'https://www.webpackjs.com/',
+            description: '打包所有的 资源',
+        },
+        {
+            title: 'Rollupjs',
+            icon: 'https://www.rollupjs.com/img/favicon.png',
+            href: 'https://www.rollupjs.com/',
+            description:
+            'Rollup 是一个 JavaScript 模块打包器，可以将小块代码编译成大块复杂的代码，例如 library 或应用程序。',
+        },
+        {
+            title: 'ESBuild',
+            icon: 'https://esbuild.github.io/favicon.svg',
+            href: 'https://esbuild.github.io/',
+            description:
+            'Our current build tools for the web are 10-100x slower than they could be. The main goal of the esbuild bundler project is to bring about a new era of build tool performance, and create an easy-to-use modern bundler along the way.',
+        },
+        {
+            title: 'Gulpjs',
+            icon: 'https://www.gulpjs.com.cn/img/favicon.png',
+            href: 'https://www.gulpjs.com.cn/',
+            description: '用自动化构建工具增强你的工作流程！',
+        },
+        {
+            title: 'Babel',
+            icon: 'https://babel.docschina.org/img/babel.svg',
+            href: 'https://babel.docschina.org/',
+            description: 'Babel 是一个 JavaScript 编译器。',
         },
     ]"
 />
@@ -295,6 +390,13 @@
           icon: 'https://code.fun/favicon.ico',
           href: 'https://code.fun/',
           description: '做前端 不搬砖 UI 设计稿智能生成前端源代码 8 小时工作量，10 分钟完成',
+        },
+        {
+            title: 'GoGoCode',
+            icon: 'https://img.alicdn.com/tfs/TB17V2NvHj1gK0jSZFuXXcrHpXa-256-256.png',
+            href: 'https://gogocode.io/zh',
+            description:
+            '代码转换从未如此简单 全网最简单易上手，可读性最强的 AST 处理工具！',
         },
     ]"
 />

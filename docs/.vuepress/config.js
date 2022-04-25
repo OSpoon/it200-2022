@@ -24,7 +24,7 @@ module.exports = {
         link: `https://github.com/OSpoon/it200.cn/issues`,
       },
       {
-        text: "常逛社区",
+        text: "社区",
         children: [
           {
             text: "掘金",
@@ -43,8 +43,8 @@ module.exports = {
             link: "https://blog.51cto.com/u_11711012",
           },
           {
-            text: "幕布",
-            link: "https://mubu.com/explore",
+            text: "B站",
+            link: "https://bilibili.com",
           },
           {
             text: "微信开发社区",
@@ -53,32 +53,7 @@ module.exports = {
         ],
       },
       {
-        text: "编码工具",
-        children: [
-          {
-            text: "CodeSandBox",
-            link: "https://codesandbox.io/",
-          },
-          {
-            text: "Stackblitz",
-            link: "https://stackblitz.com/",
-          },
-          {
-            text: "JSRUN.NET",
-            link: "http://jsrun.net/",
-          },
-          {
-            text: "正则编辑器",
-            link: "https://regex101.com/",
-          },
-          {
-            text: "正则可视化",
-            link: "https://jex.im/regulex/",
-          },
-        ],
-      },
-      {
-        text: "查询一下",
+        text: "Search",
         children: [
           {
             text: "NPM",
@@ -97,10 +72,6 @@ module.exports = {
             link: "https://unpkg.com/",
           },
           {
-            text: "astexplorer",
-            link: "https://astexplorer.net/",
-          },
-          {
             text: "crontab",
             link: "https://crontab.guru/",
           },
@@ -111,7 +82,40 @@ module.exports = {
         ],
       },
       {
-        text: "转换工具",
+        text: "Playground",
+        children: [
+          {
+            text: "CodeSandBox",
+            link: "https://codesandbox.io/",
+          },
+          {
+            text: "Stackblitz",
+            link: "https://stackblitz.com/",
+          },
+          {
+            text: "JSRUN.NET",
+            link: "http://jsrun.net/",
+          },
+          {
+            text: "TypeScript",
+            link: "https://www.typescriptlang.org/zh/play",
+          },
+          {
+            text: "Vue SFC",
+            link: "https://sfc.vuejs.org/",
+          },
+          {
+            text: "Regular Edited",
+            link: "https://regex101.com/",
+          },
+          {
+            text: "Regular Visual",
+            link: "https://jex.im/regulex/",
+          },
+        ],
+      },
+      {
+        text: "Transform",
         children: [
           {
             text: "carbon",
@@ -126,31 +130,30 @@ module.exports = {
             link: "https://doocs.github.io/md/",
           },
           {
-            text: "小码短链接",
-            link: "https://xiaomark.com/",
+            text: "astexplorer",
+            link: "https://astexplorer.net/",
           },
           {
-            text: "JSON转typescript",
+            text: "json2typescript",
             link: "https://tooltt.com/json2typescript/",
           },
         ],
       },
       {
-        text: "绘图区",
+        text: "设计分享",
         children: [
           {
-            text: "在线流程图",
+            text: "asciinema",
+            link: "https://asciinema.org/~fe-xiaoxin",
+          },
+          {
+            text: "processon",
             link: "https://www.processon.com/",
           },
           {
             text: "手绘风绘图",
             link: "https://excalidraw.com/",
           },
-        ],
-      },
-      {
-        text: "设计工具",
-        children: [
           {
             text: "可画设计",
             link: "https://www.canva.cn/",
@@ -200,18 +203,5 @@ module.exports = {
         },
       },
     ],
-    // [
-    //   '@vuepress/plugin-docsearch',
-    //   {
-    //     apiKey: '',
-    //     indexName: '',
-    //     searchParameters: {
-    //       facetFilters: ['tags:v2'],
-    //     },
-    //     locales: {
-    //       placeholder:"搜索文档"
-    //     },
-    //   },
-    // ],
   ],
 };

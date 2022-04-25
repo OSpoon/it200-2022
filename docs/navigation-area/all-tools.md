@@ -72,7 +72,7 @@
         },
         {
           uuid:'92bf0e50-a81f-463d-a218-d63404a567b9',
-          title: 'GitHubProxy代理加速',
+          title: 'GitHubProxy加速',
           icon: 'https://github.githubassets.com/favicons/favicon.png',
           href: 'https://ghproxy.com',
           description:
@@ -209,6 +209,20 @@
           icon: 'https://brew.idayer.com/favicon.ico',
           href: 'https://brew.idayer.com/',
           description: 'Homebrew macOS飞速安装教程'
+        },
+        {
+          uuid:'bc9561dc-7272-429a-8cfc-1ed96568defe',
+          title: 'NGINX 配置',
+          icon: 'https://www.digitalocean.com/_next/static/media/apple-touch-icon.d7edaa01.png',
+          href: 'https://www.digitalocean.com/community/tools/nginx?global.app.lang=zhCN',
+          description: '配置高性能、安全、稳定的NGINX服务器的最简单方法。'
+        },
+        {
+          uuid:'bc9561dc-7272-429a-8cfc-1ed96568defe',
+          title: 'Android Asset Studio',
+          icon: 'http://romannurik.github.io/AndroidAssetStudio/favicon.ico',
+          href: 'http://romannurik.github.io/AndroidAssetStudio/index.html',
+          description: 'A collection of tools to easily generate assets such as launcher icons for your Android app.'
         }
     ]" 
 />

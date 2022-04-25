@@ -1,4 +1,4 @@
-# Node&构建
+# Node
 
 ## Node系列
 
@@ -55,44 +55,4 @@
             description: '轻量的语义化模板',
         },
     ]" 
-/>
-
-## 构建系列
-
-<content-page 
-    uid="e2392323-8f47-40bb-b944-34987e18492d"
-    :superlink="[
-        {
-            title: 'Vite',
-            icon: '/images/vite.svg',
-            href: 'https://cn.vitejs.dev/',
-            description: '下一代前端开发与构建工具',
-        },
-        {
-            title: 'Webpackjs',
-            icon: 'https://www.webpackjs.com/assets/favicon.ico',
-            href: 'https://www.webpackjs.com/',
-            description: '打包所有的 资源',
-        },
-        {
-            title: 'Rollupjs',
-            icon: 'https://www.rollupjs.com/img/favicon.png',
-            href: 'https://www.rollupjs.com/',
-            description:
-            'Rollup 是一个 JavaScript 模块打包器，可以将小块代码编译成大块复杂的代码，例如 library 或应用程序。',
-        },
-        {
-            title: 'GoGoCode',
-            icon: 'https://img.alicdn.com/tfs/TB17V2NvHj1gK0jSZFuXXcrHpXa-256-256.png',
-            href: 'https://gogocode.io/zh',
-            description:
-            '代码转换从未如此简单 全网最简单易上手，可读性最强的 AST 处理工具！',
-        },
-        {
-            title: 'GraphQL',
-            icon: 'https://graphql.cn/favicon.ico',
-            href: 'https://graphql.cn/',
-            description: '一种用于 API 的查询语言',
-        },
-    ]"
 />

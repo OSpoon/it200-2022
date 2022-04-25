@@ -56,8 +56,8 @@ export default {
   margin: 10px;
   padding: 10px;
   display: flex;
-  border: 1px #ccc solid;
   border-radius: 5px;
+  box-shadow: 0 1px 4px 0 #ccc;
 }
 .itemBoxRight {
   margin-left: 15px;
