@@ -8,7 +8,7 @@
         {
           uuid:'8c11e379-6c1a-4012-8e11-eec5ca1ea6eb',
           title: 'Web 开发技术 | MDN',
-          icon: '/images/mozilla.ico',
+          icon: '/images/mozilla.png',
           href: 'https://developer.mozilla.org/zh-CN/docs/Web',
           description: 'Web 开发技术 面向 Web 开发者的文档',
         },
@@ -223,6 +223,13 @@
           icon: '/images/romannurik.ico',
           href: 'http://romannurik.github.io/AndroidAssetStudio/index.html',
           description: 'A collection of tools to easily generate assets such as launcher icons for your Android app.'
-        }
+        },
+        {
+          uuid:'658d7031-388d-4f2d-9bb2-c4957d37af58',
+          title: 'Apache JMeter',
+          icon: '/images/apple-touch-icon.png',
+          href: 'https://jmeter.apache.org/download_jmeter.cgi',
+          description: 'The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.',
+        },
     ]" 
 />

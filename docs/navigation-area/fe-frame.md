@@ -55,17 +55,59 @@
           href: 'https://less.bootcss.com/',
         },
         {
-          uuid:'8853df86-5a7d-4e4e-b53d-f4be6a44e81b',
-          title: '现代 JavaScript 教程',
-          description: '以最新的 JavaScript 标准为基准。通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。',
-          icon: 'https://zh.javascript.info/img/favicon/favicon.png',
-          href: 'https://zh.javascript.info/',
-        },
-        {
             title: 'GraphQL',
             icon: 'https://graphql.cn/favicon.ico',
             href: 'https://graphql.cn/',
             description: '一种用于 API 的查询语言',
+        },
+        {
+          uuid:'9d948162-8988-42b9-8c00-35ca85d0c6c1',
+          title: 'Vue.js 技术揭秘',
+          description: 'Vue.js 技术揭秘',
+          icon: 'https://cn.vuejs.org/images/icons/favicon-32x32.png',
+          href: 'https://ustbhuangyi.github.io/vue-analysis/',
+        },
+        {
+          uuid:'0ca69d3e-02c3-47cc-8132-9ea8e9d93c35',
+          title: '大厂面试题每日一题',
+          description: '大厂面试题每日一题',
+          icon: 'https://q.shanyue.tech/favicon.ico',
+          href: 'https://ustbhuangyi.github.io/vue-analysis/',
+        },
+        {
+          uuid:'ef8e3564-42cf-48a7-9a6d-987483a4f5d9',
+          title: '现代 JavaScript 教程',
+          icon: 'https://zh.javascript.info/img/favicon/favicon.png',
+          href: 'https://zh.javascript.info/',
+          description: '从基础知识到高阶主题，只需既简单又详细的解释。',
+        },
+        {
+          uuid:'f46c0bf0-926e-4feb-8509-9d66df605c7a',
+          title: '小鑫笔记',
+          icon: 'https://it200.cn/img/logo.b96656d2.jpg',
+          href: 'https://ospoon.github.io/',
+          description: '小鑫笔记在线阅读',
+        },
+        {
+          uuid:'f9ec1f50-bb74-4c3c-8167-c780e67b5943',
+          title: 'yarn官方中文文档',
+          icon: 'https://www.bookstack.cn/favicon.ico',
+          href: 'https://www.bookstack.cn/read/yarn-cn/0.md',
+          description: 'yarn官方中文文档',
+        },
+        {
+          uuid:'7964cc70-0c20-427d-b57f-3b53c0fabee4',
+          title: '大圣前端',
+          icon: 'https://shengxinjing.cn/logo.ico',
+          href: 'https://shengxinjing.cn/',
+          description: '大圣前端学习路线图',
+        },
+        {
+          uuid:'030c9784-ac17-4fb6-b6f7-2163581947cf',
+          title: '前端知识图谱',
+          icon: 'https://gw.alicdn.com/tfs/TB1lFaCklfH8KJjy1XbXXbLdXXa-32-32.png',
+          href: 'https://f2e.tech/',
+          description: '前端知识图谱',
         },
     ]"
 />
@@ -130,27 +172,6 @@
           icon: 'https://img14.360buyimg.com/imagetools/jfs/t1/167902/2/8762/791358/603742d7E9b4275e3/e09d8f9a8bf4c0ef.png',
           href: 'https://nutui.jd.com/bingo/#/',
           description: '基于 NutUI 的抽奖组件库，助力营销活动和小游戏场景。',
-        },
-        {
-          uuid:'b85cd2fa-6adc-4eb5-b6c7-85b9a115cb8a',
-          title: 'ECMA-262',
-          description: 'This Standard defines the ECMAScript 2021 general-purpose programming language ！',
-          icon: 'https://www.ecma-international.org/wp-content/uploads/ecma-favicon@2x-300x300.png',
-          href: 'https://www.ecma-international.org/publications-and-standards/standards/ecma-262/',
-        },
-        {
-          uuid:'eef31c1d-76d7-45d7-8e50-5a765be06363',
-          title: 'Sass',
-          description: '世界上最成熟、最稳定、最强大的专业级CSS扩展语言！',
-          icon: 'https://www.sass.hk/favicon.ico',
-          href: 'https://www.sass.hk/',
-        },
-        {
-          uuid:'269c36b0-2588-48dc-aac6-4203600a89ad',
-          title: 'Less',
-          description: '给 CSS 加点料。',
-          icon: 'https://less.bootcss.com/public/ico/favicon.ico',
-          href: 'https://less.bootcss.com/',
         },
     ]"
 />
@@ -241,7 +262,7 @@
         {
           uuid:'afbc3640-2c74-46ed-99dd-83ff45a5b608',
           title: 'React Native',
-          icon: 'https://react.docschina.org/favicon.ico',
+          icon: '/images/react.ico',
           href: 'https://reactnative.dev/',
           description: 'React Native Learn once, write anywhere.',
         },
