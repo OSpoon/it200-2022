@@ -76,6 +76,14 @@ module.exports = {
             link: "https://crontab.guru/",
           },
           {
+            text: "mvn仓库",
+            link: "https://mvnrepository.com/",
+          },
+          {
+            text: "maven",
+            link: "https://search.maven.org/",
+          },
+          {
             text: "emojiall",
             link: "https://www.emojiall.com/zh-hans/all-cate",
           },
@@ -157,6 +165,10 @@ module.exports = {
           {
             text: "processon",
             link: "https://www.processon.com/",
+          },
+          {
+            text: "创可贴",
+            link: "https://www.chuangkit.com/",
           },
           {
             text: "可画设计",

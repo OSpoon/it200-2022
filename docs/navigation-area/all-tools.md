@@ -42,6 +42,13 @@
           description: 'Build amazing things',
         },
         {
+          uuid:'c7cef345-9857-42b9-821f-bf52bd7b9b9f',
+          title: 'NPM MIRROR',
+          icon: 'https://npmmirror.com/favicon.png',
+          href: 'https://npmmirror.com/',
+          description: 'npmmirror 中国镜像站',
+        },
+        {
           uuid:'5d2c1dc8-06f6-45a0-b8af-380c89b2d5f6',
           title: 'MD美化',
           icon: 'https://www.mdnice.com/favicon.svg',
@@ -230,6 +237,20 @@
           icon: '/images/apple-touch-icon.png',
           href: 'https://jmeter.apache.org/download_jmeter.cgi',
           description: 'The Apache JMeter™ application is open source software, a 100% pure Java application designed to load test functional behavior and measure performance. It was originally designed for testing Web Applications but has since expanded to other test functions.',
+        },
+        {
+          uuid:'95ce62b6-e5ae-4ec4-bb95-f089b82f2a4a',
+          title: 'Open Office',
+          icon: 'https://www.openoffice.org/favicon.ico',
+          href: 'http://www.openoffice.org/',
+          description: 'The Free and Open Productivity Suite',
+        },
+        {
+          uuid:'5151ce5e-6928-4d1c-971c-013b0d3afe0f',
+          title: 'JitPack',
+          icon: 'https://jitpack.io/favicon.ico',
+          href: 'https://jitpack.io/',
+          description: 'The Free and Open Productivity Suite',
         },
     ]" 
 />
