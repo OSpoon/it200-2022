@@ -1,0 +1,1 @@
+const t={key:"v-8a1be622",path:"/navigation-area/self-taught.html",title:"\u81EA\u5B66\u8003\u8BD5",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648972859e3,contributors:[{name:"\u5C0F\u946B\u540C\u5B66",email:"zxin088@gmail.com",commits:3}]},filePathRelative:"navigation-area/self-taught.md"};export{t as data};

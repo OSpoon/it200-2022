@@ -1,0 +1,1 @@
+const a={key:"v-ddff4d78",path:"/navigation-area/design-correlation.html",title:"\u63D2\u753B\u8BBE\u8BA1",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1648972859e3,contributors:[{name:"\u5C0F\u946B\u540C\u5B66",email:"zxin088@gmail.com",commits:8}]},filePathRelative:"navigation-area/design-correlation.md"};export{a as data};
