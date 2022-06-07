@@ -34,3 +34,17 @@ footer: MIT Licensed | Copyright © 2022 小鑫同学
 <!-- <div align="center">
   <img src="https://activity-graph.herokuapp.com/graph?username=OSpoon&theme=xcode" /> 
 </div> -->
+
+<script setup>
+import { onMounted } from 'vue'
+  onMounted(() => {
+    ((window.gitter = {}).chat = {}).options = {
+      room: 'IT200-OSpoon/it200.cn'
+    };
+    const script=document.createElement('script');
+    script.src='https://sidecar.gitter.im/dist/sidecar.v1.js';
+    script.defer = true;
+    script.async = true;
+    document.head.appendChild(script);
+  })
+</script>
