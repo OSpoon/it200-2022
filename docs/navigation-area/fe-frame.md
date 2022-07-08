@@ -473,5 +473,11 @@
             href: 'https://stenciljs.com/',
             description: 'Build. Customize. Distribute. Adopt.',
         },
+        {
+            title: 'Tailwind CSS',
+            icon: 'https://tailwindcss.com/favicons/apple-touch-icon.png?v=3',
+            href: 'https://tailwindcss.com/',
+            description: 'Rapidly build modern websites without ever leaving your HTML.',
+        },
     ]"
 />
