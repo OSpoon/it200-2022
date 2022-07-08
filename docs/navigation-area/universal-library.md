@@ -101,6 +101,12 @@
             icon: 'https://greensock.com/uploads/monthly_2018_06/favicon.ico.4811a987b377f271db584b422f58e5a7.ico',
             href: 'https://greensock.com/docs/v3',
             description: 'GSAP is an industry standard JavaScript animation library from GreenSock that lets you craft high-performance animations that work in every major browser.',
+        },
+        {
+            title: 'cssinjs',
+            icon: 'https://cssinjs.org/images/favicon.ico',
+            href: 'https://cssinjs.org/jss-api/',
+            description: 'A lib for generating CSS from JavaScript',
         }
     ]"
 />

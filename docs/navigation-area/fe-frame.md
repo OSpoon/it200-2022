@@ -109,6 +109,20 @@
           href: 'https://f2e.tech/',
           description: '前端知识图谱',
         },
+        {
+          uuid:'625249ad-f119-4152-b32a-09318e2bddf0',
+          title: 'Awesome JS',
+          icon: 'https://awesomejs.dev/favicon.png',
+          href: 'https://awesomejs.dev/',
+          description: 'Select your project type',
+        },
+        {
+          uuid:'344222a5-56be-4c09-a4d5-89349890c856',
+          title: '印记中文',
+          icon: 'https://docschina.org/favicon.ico',
+          href: 'https://docschina.org/',
+          description: '印记中文 - 深入挖掘国外前端新领域，为国内 Web 前端开发人员提供优质文档！',
+        },
     ]"
 />
 
@@ -439,6 +453,25 @@
             href: 'https://gogocode.io/zh',
             description:
             '代码转换从未如此简单 全网最简单易上手，可读性最强的 AST 处理工具！',
+        },
+        {
+            title: 'z-paging',
+            icon: 'https://z-paging.zxlee.cn/img/logo.png',
+            href: 'https://z-paging.zxlee.cn/',
+            description:
+            '一个uni-app (opens new window)分页组件。全平台兼容，支持自定义下拉刷新、上拉加载更多，支持虚拟列表，支持自动管理空数据图、点击返回顶部，支持聊天分页、本地分页，支持展示最后更新时间，支持国际化等等。',
+        },
+        {
+            title: 'mescroll',
+            icon: 'http://www.mescroll.com/favicon.ico',
+            href: 'http://www.mescroll.com/',
+            description: '精致的下拉刷新和上拉加载js框架',
+        },
+        {
+            title: 'StenCil',
+            icon: 'https://stenciljs.com/assets/icon/favicon.ico',
+            href: 'https://stenciljs.com/',
+            description: 'Build. Customize. Distribute. Adopt.',
         },
     ]"
 />

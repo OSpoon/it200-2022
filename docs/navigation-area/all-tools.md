@@ -252,5 +252,40 @@
           href: 'https://jitpack.io/',
           description: 'The Free and Open Productivity Suite',
         },
+        {
+          uuid:'9cf9bf31-90d7-4a48-ba87-db6e3122e185',
+          title: '微信公众号同步助手',
+          icon: 'https://www.wechatsync.com/favicon.ico',
+          href: 'https://www.wechatsync.com/',
+          description: '一次排版发布，多平台同步发布。解放自媒体人生产力，专注于写作本身！',
+        },
+        {
+          uuid:'70c13f41-f022-404e-89c0-0b4ee5dcc18f',
+          title: 'Marp',
+          icon: 'https://marp.app/favicon.png',
+          href: 'https://web.marp.app/',
+          description: 'Markdown Presentation Ecosystem',
+        },
+        {
+          uuid:'f4c89704-e822-4d32-96a5-c02e8f1a0b4c',
+          title: 'Slidev',
+          icon: 'https://cn.sli.dev/favicon.png',
+          href: 'https://cn.sli.dev/',
+          description: '为开发者打造的演示文稿工具 Beta',
+        },
+        {
+          uuid:'4e495747-a4c6-41d6-86d8-c4494035da83',
+          title: 'Server酱',
+          icon: 'https://theseven.ftqq.com/sct/images/icon.png',
+          href: 'https://sct.ftqq.com/',
+          description: 'Server酱，支持微信、企业微信和PushDeer的消息推送工具',
+        },
+        {
+          uuid:'3b8c2846-aaab-4008-8f40-6a49ede070f8',
+          title: 'Visual Studio Code',
+          icon: 'https://code.visualstudio.com/favicon.ico',
+          href: 'https://code.visualstudio.com/',
+          description: 'Free. Built on open source. Runs everywhere.',
+        },
     ]" 
 />
